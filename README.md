@@ -1,3 +1,7 @@
+<h1>Di Bernardo Nikko</h1>
+
+Hello, welcome to my github! I'm Nikko and I'm a junior developer at BeCode. My goal is to become a Full Stack Developer developer (back end preferred).
+
 <h3 align="center">A passionate backend developer from Belgium</h3>
 
 <h3 align="left">Connect with me:</h3>
