@@ -1,4 +1,4 @@
-<p>Hello, welcome to my github! I'm Nikko and I'm a junior developer at BeCode. My goal is to become a Full Stack Developer developer (back end preferred).</p>
+<p>Hello, welcome to my github! I'm Nikko and I'm a junior developer at BeCode. My goal is to become a Full Stack Developer (back end preferred).</p>
 
 <h3 align="center">A passionate backend developer from Belgium</h3>
 
