@@ -20,4 +20,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=leshib&show_icons=true&title_color=ffffff&text_color=ffffff&bg_color=000000&locale=en" alt="leshib" /></p>
 
-<p><img src="https://github-readme-stats.vercel.app/api/wakatime?username=LeShib&hide_title=true&langs_count=4&theme=cobalt&hide_border=true"></p>
+<!-- <p><img src="https://github-readme-stats.vercel.app/api/wakatime?username=LeShib&hide_title=true&langs_count=4&theme=cobalt&hide_border=true"></p> -->
